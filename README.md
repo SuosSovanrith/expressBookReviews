@@ -1,1 +1,2 @@
-# coding-project-template
+# Project 
+Build a server-side online book review application with Promises callbacks/Async-Await functions and integrate it with a secure REST API server , which will use authentication at the session level using JWT.
